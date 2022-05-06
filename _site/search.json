@@ -1,0 +1,28 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About",
+      "description": "A mix of resources for the quantitatively minded investor/economist.",
+      "author": [],
+      "contents": "\r\nI am a financial economist. Experiential Education enthusiast. Total\r\nWealth Advocate.\r\nLet’s connect https://www.linkedin.com/in/mike-aguilar-econ/\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-05T17:24:47-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Macro + Finance + Quant",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-05T17:24:47-04:00"
+    },
+    {
+      "path": "resource.html",
+      "title": "Resources",
+      "description": "A few resources for students and pratiticioners of macro and finance. ",
+      "author": [],
+      "contents": "\r\nQuantitative Finance\r\nhttps://aguilarmike.github.io/QuantFinancialEconInR.html\r\nMacro\r\nhttps://aguilarmike.github.io/IntroToFRED.pdf\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-05T17:24:48-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2022-05-05-the-sharpe-ratio/",
+    "title": "Jobless Claims",
+    "description": "What if we rebenchmark jobless for the size of the labor force?",
+    "author": [
+      {
+        "name": "Mike Aguilar",
+        "url": {}
+      }
+    ],
+    "date": "2022-05-05",
+    "categories": [],
+    "contents": "\r\nInitial Claims as a fraction of labor force at all time lows.\r\nInitial Claims / Labor Force\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-05-05T16:56:14-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-05-05-the-sharpe-ratio2/",
+    "title": "The Sharpe Ratio2",
+    "description": "something.",
+    "author": [
+      {
+        "name": "Unknown",
+        "url": {}
+      }
+    ],
+    "date": "2022-05-05",
+    "categories": [],
+    "contents": "\r\nnew stuff\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-05-05T16:43:16-04:00",
+    "input_file": {}
+  }
+]
