@@ -1,0 +1,17 @@
+---
+title: "Resources"
+description: |
+  A few resources for students and pratiticioners of macro and finance. 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**Quantitative Finance**
+
+https://aguilarmike.github.io/QuantFinancialEconInR.html
+
+Macro
+
+https://aguilarmike.github.io/IntroToFRED.pdf

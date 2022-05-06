@@ -1,0 +1,19 @@
+---
+title: "The Sharpe Ratio2"
+description: |
+  something.
+author:
+  - name: Unknown
+    url: {}
+date: 2022-05-05
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+ new stuff
+

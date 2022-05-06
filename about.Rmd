@@ -1,0 +1,13 @@
+---
+title: "About"
+description: |
+  A mix of resources for the quantitatively minded investor/economist.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I am a financial economist. Experiential Education enthusiast.  Total Wealth Advocate. 
+
+Let's connect https://www.linkedin.com/in/mike-aguilar-econ/ 
